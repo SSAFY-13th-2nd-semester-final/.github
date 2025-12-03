@@ -79,6 +79,7 @@ AI EMS는 응급환자 이송 과정에서 병원 선정에 소요되는 시간�
 
 ### AI
 ![vLLM](https://img.shields.io/badge/vLLM-000000?style=for-the-badge&logo=python&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![LangChain](https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
