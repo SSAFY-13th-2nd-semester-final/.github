@@ -152,7 +152,7 @@
 <tr><td>삼성전자 SSAFY</td><td><a href="https://csr.samsung.com/ko/story/inspiring-journeys/%E2%80%9C%EC%B7%A8%EC%97%85%EC%97%90%EC%84%9C-%EC%84%B1%EC%9E%A5%EA%B9%8C%EC%A7%80%E2%80%9D-ssafy-13%EA%B8%B0-%EB%8F%84%EC%A0%84%EC%9D%98-%EC%97%AC%EC%A0%95%EC%9D%84-%EB%A7%88%EB%AC%B4%EB%A6%AC%ED%95%A9%EB%8B%88%EB%8B%A4">"취업에서 성장까지" SSAFY 13기, 도전의 여정을 마무리합니다</a></td></tr>
 <tr><td>한국금융신문</td><td><a href="https://www.fntimes.com/html/view.php?ud=2025121814063887367fd637f543_18">1년 만에 실전 개발자로…삼성 SSAFY 13기, 산업·의료·콘텐츠 혁신 선봬</a></td></tr>
 <tr><td>뉴스핌</td><td><a href="https://www.newspim.com/news/view/20251217001032">[가보니] 코딩 넘어 '현장형 AI'로…삼성 'SSAFY 2.0'의 AI 실험실</a></td></tr>
-<tr><td>매일경제</td><td><a href="https://www.mk.co.kr/news/economy/11495773">삼성 SSAFY 13기 수료식 현장 (기사)</a></td></tr>
+<tr><td>매일경제</td><td><a href="https://www.mk.co.kr/news/economy/11495773">여기 출신 열에 아홉은 취업했는데…‘AI 교육’ 더했다니, 골라 가겠군</a></td></tr>
 </table>
 
 <br/>
