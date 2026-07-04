@@ -5,7 +5,7 @@
 <h1>AI EMS</h1>
 <h3>AI 기반 응급환자 이송 관제 시스템</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" alt="award" height="16" align="top" /> <strong>SSAFY 13기 자율 프로젝트 전국 1위</strong> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" alt="award" height="16" align="top" />
+<a href="https://www.youtube.com/live/uFstBCg65gI?si=U2qAlX3WVxnS3oH4"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" alt="award" height="16" align="top" /> <strong>SSAFY 13기 자율 프로젝트 전국 1위</strong> <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3c6.svg" alt="award" height="16" align="top" /></a>
 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.5.3-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-19.1-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
